@@ -1,4 +1,6 @@
 
 scikit-learn
 pandas
-RandomForestClassifier
+matplotlib
+seaborn
+xgboost
